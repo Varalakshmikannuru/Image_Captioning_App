@@ -1,4 +1,4 @@
-# Image Captioning App 📸
+# Image Captioning App with Pre-trained Model 📸
 
 This project is an Image Captioning App built using Streamlit, PyTorch, and the BLIP (Bootstrapped Language-Image Pre-training) model from Salesforce. The app allows users to upload an image and generates multiple captions for the uploaded image.
 
